@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently exploring perception and vision research papers
+- 🔭 I’m currently exploring and implementing perception and vision research papers
 - 🌱 I’m currently learning cuda and cpp for accelerated programming
-- 👯 I’m looking to collaborate on robotics and machine vision projects
-- 💬 Ask me about ROS, YOLO, Classical Computer Vision algorithms
-- 📫 How to reach me: mail me at: techie23.vin at gmail dot com
+- 👯 I’m looking to collaborate on robotics, llm and machine vision projects
+- 💬 Ask me about ROS, Transformers and Computer Vision
+- 📫 How to reach me: techie23.vin at gmail dot com
 - ⚡ Fun fact: lichess 1300
 
 #### Surpass Your Limits :)
