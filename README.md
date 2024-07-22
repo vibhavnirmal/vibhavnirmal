@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on robotics, llm and machine vision projects
 - 💬 Ask me about ROS, Transformers and Computer Vision
 - 📫 How to reach me: techie23.vin at gmail dot com
-- ⚡ Fun fact: lichess 1300
+- ⚡ Fun fact: lichess 1500
 
 #### Surpass Your Limits :)
 
